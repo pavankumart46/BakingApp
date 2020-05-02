@@ -3,12 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Kotlin-Documentation's documentation!
+Welcome to Kotlin documentation!
 ================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   Document 1
+   Document 2
 
 
 
