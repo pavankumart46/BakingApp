@@ -8,7 +8,7 @@ Welcome to Kotlin documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
    
    Document 1
    Document 2
